@@ -16,20 +16,20 @@ Key Topics:
 
 # Textbooks
 
-- (Free) Python Data Science Handbook by Jake VanderPlas: https://jakevdp.github.io/PythonDataScienceHandbook/
+- (Free) [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ![PythonDataScienceHandbook](./img/datascience.png)
 
-- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
-by Aurélien Géron: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 ![Machine Learning](./img/machinelearning.png)
 
 # Instructor
 
-My professional experience: https://www.linkedin.com/in/harryjwang/.
+My professional experience: [LinkedIn](https://www.linkedin.com/in/harryjwang/)
 
-One way to get a better idea about my teaching is to check out some of my tutorials:
+Some of my tutorials:
 
 - [A Minimalist End-to-End Scrapy Tutorial](https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0?source=friends_link&sk=c9f8e32f28a88c61987ec60f93b93e6d)
 - [The 10-Step Machine Learning Project Workflow](https://github.com/harrywang/house-price-prediction)
