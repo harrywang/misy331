@@ -1,5 +1,5 @@
 # Overview
-MISY467 Machine Learning for Business, Spring 2020
+### MISY467 Machine Learning for Business, Spring 2020
 
 This course introduces the basic concepts and techniques of machine learning and covers most commonly used models for predictive analytics. The end-to-end workflow for typical machine learning projects is illustrated via multiple business programming cases. If time permits, deep learning techniques are also introduced. This course is programming intensive using Python 3 and popular packages/frameworks, such as Jupyter, Numbpy, Pandas, Matplotlib, Scikit-Learn and TensorFlow.
 
@@ -35,3 +35,5 @@ Some of my tutorials:
 - [The 10-Step Machine Learning Project Workflow](https://github.com/harrywang/house-price-prediction)
 - [Document Clustering using a Movie Dataset](https://github.com/harrywang/document_clustering)
 - [How to Setup Mac for Python Development](https://medium.com/@HarryWang/how-to-setup-mac-for-python-development-37e5fd895151?source=friends_link&sk=515c160a5a1e61440d626f1a6ac1f567)
+
+[Back to Top](#overview)
