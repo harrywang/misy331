@@ -3,7 +3,9 @@
 
 This course introduces the basic concepts and techniques of machine learning and covers most commonly used models for predictive analytics. The end-to-end workflow for typical machine learning projects is illustrated via multiple business programming cases. If time permits, deep learning techniques are also introduced. This course is programming intensive using Python 3 and popular packages/frameworks, such as Jupyter, Numbpy, Pandas, Matplotlib, Scikit-Learn and TensorFlow.
 
-Key Topics:
+**Note**: this course will be renamed to MISY331 and become a required core course for the undergraduate major in Business Analytics.
+
+**Key Topics**:
 
 - AI and Machine Learning Overview
 - Toolset Bootcamp (Git, Python 3, Jupyter, Numpy, Pandas, Matplotlib, Seanborn, Scikit-Learn)
