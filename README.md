@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Overview
+MISY467 Machine Learning for Business, Spring 2020
 
-You can use the [editor on GitHub](https://github.com/harrywang/misy467/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This course introduces the basic concepts and techniques of machine learning and covers most commonly used models for predictive analytics. The end-to-end workflow for typical machine learning projects is illustrated via multiple business programming cases. If time permits, deep learning techniques are also introduced. This course is programming intensive using Python 3 and popular packages/frameworks, such as Jupyter, Numbpy, Pandas, Matplotlib, Scikit-Learn and TensorFlow.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Key Topics:
 
-### Markdown
+- AI and Machine Learning Overview
+- Toolset Bootcamp (Git, Python 3, Jupyter, Numpy, Pandas, Matplotlib, Seanborn, Scikit-Learn)
+- End-to-end Machine Learning Workflow
+- Feature Engineering
+- Classification (Decision Tree, Linear/Logistic Regression, SVM)
+- Clustering (K-means)
+- Ensemble Learning
+- Deep Learning Introduction (optional)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Textbooks
 
-```markdown
-Syntax highlighted code block
+- (Free) Python Data Science Handbook by Jake VanderPlas: https://jakevdp.github.io/PythonDataScienceHandbook/
 
-# Header 1
-## Header 2
-### Header 3
+![PythonDataScienceHandbook](./img/datascience.png)
 
-- Bulleted
-- List
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+by Aurélien Géron: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 
-1. Numbered
-2. List
+![Machine Learning](./img/machinelearning.png)
 
-**Bold** and _Italic_ and `Code` text
+# Instructor
 
-[Link](url) and ![Image](src)
-```
+My professional experience: https://www.linkedin.com/in/harryjwang/.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+One way to get a better idea about my teaching is to check out some of my tutorials:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harrywang/misy467/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [A Minimalist End-to-End Scrapy Tutorial](https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0?source=friends_link&sk=c9f8e32f28a88c61987ec60f93b93e6d)
+- [The 10-Step Machine Learning Project Workflow](https://github.com/harrywang/house-price-prediction)
+- [Document Clustering using a Movie Dataset](https://github.com/harrywang/document_clustering)
+- [How to Setup Mac for Python Development](https://medium.com/@HarryWang/how-to-setup-mac-for-python-development-37e5fd895151?source=friends_link&sk=515c160a5a1e61440d626f1a6ac1f567)
