@@ -36,4 +36,7 @@ Some of my tutorials:
 - [Document Clustering using a Movie Dataset](https://github.com/harrywang/document_clustering)
 - [How to Setup Mac for Python Development](https://medium.com/@HarryWang/how-to-setup-mac-for-python-development-37e5fd895151?source=friends_link&sk=515c160a5a1e61440d626f1a6ac1f567)
 
+
+[A generative art using p5.js demo](./generative-art/index.html) to show how to host HTML and JS Files
+
 [Back to Top](#misy467-machine-learning-for-business-spring-2020)
