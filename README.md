@@ -1,20 +1,24 @@
 # Overview
 ### MISY467 Machine Learning for Business, Spring 2020
 
-This course introduces the basic concepts and techniques of machine learning and covers most commonly used models for predictive analytics. The end-to-end workflow for typical machine learning projects is illustrated via multiple business programming cases. If time permits, deep learning techniques are also introduced. This course is programming intensive using Python 3 and popular packages/frameworks, such as Jupyter, Numbpy, Pandas, Matplotlib, Scikit-Learn and TensorFlow.
+> "Talk is cheap. Show me the code." - Linus Torvalds
+
+This course introduces the basic concepts and techniques of machine learning and covers most commonly used models for predictive analytics. The end-to-end workflow for typical machine learning projects is illustrated via multiple business programming cases and Kaggle competitions. If time permits, deep learning techniques are also introduced. This course is programming intensive using Python 3 and popular packages, such as Jupyter, Numbpy, Pandas, Matplotlib, Seaborn, and Scikit-Learn.
 
 **Note**: this course will be renamed to MISY331 and become a required core course for the undergraduate major in Business Analytics.
 
 **Key Topics**:
 
-- AI and Machine Learning Overview
-- Toolset Bootcamp (Git, Python 3, Jupyter, Numpy, Pandas, Matplotlib, Seanborn, Scikit-Learn)
-- End-to-end Machine Learning Workflow
-- Feature Engineering
-- Classification (Decision Tree, Linear/Logistic Regression, SVM)
-- Clustering (K-means)
-- Ensemble Learning
-- Deep Learning Introduction (optional)
+- Machine Learning Overview
+- Toolkit Bootcamp (git, python, jupyter, numpy, pandas, matplotlib, seanborn, scikit-Learn)
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing (missing data, outliers, feature encoding, pipeline, etc.)
+- Model Training, Evaluation, and Tuning
+- Classification (Decision Tree, Logistic Regression)
+- Regression (Linear Regression, Gradient Descent, SVM)
+- Ensemble Learning (Random Forest, Gradient Boosting)
+- Clustering (K-Means)
+- Dimensionality Reduction
 
 # Textbooks
 
