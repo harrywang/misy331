@@ -33,17 +33,6 @@ by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learn
 
 # Instructor
 
-My professional experience: [LinkedIn](https://www.linkedin.com/in/harryjwang/)
-
-Some of my tutorials:
-
-- [A Minimalist End-to-End Scrapy Tutorial](https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0?source=friends_link&sk=c9f8e32f28a88c61987ec60f93b93e6d)
-- [The 10-Step Machine Learning Project Workflow](https://github.com/harrywang/house-price-prediction)
-- [Document Clustering using a Movie Dataset](https://github.com/harrywang/document_clustering)
-- [How to Setup Mac for Python Development](https://medium.com/@HarryWang/how-to-setup-mac-for-python-development-37e5fd895151?source=friends_link&sk=515c160a5a1e61440d626f1a6ac1f567)
-- [How to Host Static Markdown/Web pages using Github Pages](https://medium.com/@HarryWang/how-to-host-static-markdown-web-pages-using-github-pages-61f80a3a5136?source=friends_link&sk=d77f25f3509cc9d37925e3324b187abe)
-
-
-[A generative art using p5.js demo](./generative-art/index.html) to show how to host HTML and JS Files
+Professor Harry J. Wang: check out my website at [harrywang.me](http://harrywang.me/)
 
 [Back to Top](#misy467-machine-learning-for-business-spring-2020)
