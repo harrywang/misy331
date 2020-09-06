@@ -1,5 +1,5 @@
 # Overview
-### MISY467 Machine Learning for Business, Spring 2020
+### MISY331 Machine Learning for Business, Spring 2021
 
 > "Talk is cheap. Show me the code." - Linus Torvalds
 
@@ -35,4 +35,4 @@ by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learn
 
 Professor Harry J. Wang: check out my website at [harrywang.me](http://harrywang.me/)
 
-[Back to Top](#misy467-machine-learning-for-business-spring-2020)
+[Back to Top](#misy331-machine-learning-for-business-spring-2021)
