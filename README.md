@@ -1,5 +1,5 @@
 # Overview
-### MISY331 Machine Learning for Business
+### MISY331: Machine Learning for Business
 
 > "Talk is cheap. Show me the code." - Linus Torvalds
 
