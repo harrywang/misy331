@@ -24,9 +24,9 @@ This course introduces the basic concepts and techniques of machine learning and
 
 Professor Harry J. Wang: check out my website at [harrywang.me](http://harrywang.me/)
 
-# Textbooks
+# Books
 
-We refer to the following books in this course:
+We refer to the following technical books in this course:
 
 - (Free) [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
@@ -43,5 +43,18 @@ by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learn
 
 <img src="./img/mml.jpeg" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
 
+I also recommend reading the following business books:
+
+- [Prediction Machines: The Simple Economics of Artificial Intelligence by Ajay Agrawal, Joshua Gans, and Avi Goldfarb](https://www.predictionmachines.ai/)
+
+<img src="./img/prediction-machine.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+
+- [AI Superpowers: China, Silicon Valley, And The New World Order by Kai-Fu Lee](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
+
+<img src="./img/ai-superpower.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+
+- [A Human's Guide to Machine Intelligence: How Algorithms Are Shaping Our Lives and How We Can Stay in Control by Kartik Hosanagar](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms/dp/0525560882/)
+
+<img src="./img/human-guide.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
 
 [Back to Top](#misy331-machine-learning-for-business)
