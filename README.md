@@ -39,7 +39,7 @@ by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learn
 
 <img src="./img/machinelearning.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
 
-- (Free) [Mathematics for Machine Learning by by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/)
+- (Free) [Mathematics for Machine Learning by by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](https://mml-book.github.io/): I re-created the Table of Symbols in Latex using Jupyter Notebook, which you can access at [Google Colab](https://colab.research.google.com/drive/15cQSy8AvU_0ChtNfYaW_Wqfj_dgPv_Lq) and [Overleaf](https://www.overleaf.com/read/mnzgdyrsjfsk).
 
 <img src="./img/mml.jpeg" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
 
